@@ -1,0 +1,13 @@
+﻿{
+  "name": "myutils",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "Folder",
+      "Packages": {
+        "$path": "Packages"
+      },
+      "$path": "src"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+﻿# Wally 相关
+Packages/
+wally.lock
+
+# 编译产物
+*.rbxmx
+*.rbxm
+
+# IDE 相关
+.vscode/
+*.code-workspace
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 临时文件
+*.tmp
+*.log
+*.ps1
+
+# Roblox Studio 本地文件
+*.rbxl.local
+*.rbxlx.local
