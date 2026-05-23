@@ -1,15 +1,10 @@
 [package]
 name = "e0521e/mutils"
-version = "0.1.1"
+version = "0.1.2"
 registry = "https://github.com/UpliftGames/wally-index"
 repository = "https://github.com/e0521e/mutils.git"
 realm = "shared"
 description = "my utils"
 license = "MIT"
-authors = ["am"]
-
+authors = ["e0521e"]
 [dependencies]
-#
-[files]
-include = ["src"]
-exclude = []
