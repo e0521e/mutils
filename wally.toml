@@ -2,6 +2,7 @@
 name = "e0521e/mutils"
 version = "0.1.0"
 registry = "https://github.com/UpliftGames/wally-index"
+repository = "https://github.com/e0521e/mutils.git"
 realm = "shared"
 description = "my utils"
 license = "MIT"
